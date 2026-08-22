@@ -89,6 +89,3 @@ Based on the identified risks, the key recommendations were:
 * **Botium Toys Scope, Goals & Risk Assessment Report**
 * **Controls & Compliance Checklist**
 
-**Project Type:** Cybersecurity Training / Internal Security Audit
-**Organization:** Botium Toys *(Fictional)*
-**Status:** Completed
